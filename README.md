@@ -3,7 +3,7 @@
 
 GoRide is a cutting-edge platform designed to revolutionize the car and bike rental market, making it more accessible, seamless, and user-friendly. Our mission is to bridge the gap between vehicle owners and those in need of temporary transportation solutions. The platform ensures convenience, transparency, and trust, enabling users to rent vehicles easily while offering owners a secure way to monetize their idle vehicles.
 
-Core Features of GoRide:
+## Core Features of GoRide:
 Wide Vehicle Selection: Renters can browse a diverse range of cars and bikes, from luxury models to budget-friendly options, tailored to suit every need and budget.
 User-Friendly Interface: A clean, intuitive platform for both renters and vehicle owners to list, manage, and book vehicles.
 Flexible Rental Durations: Users can rent vehicles for short durations like a few hours or for extended periods like weeks or months.
